@@ -1,8 +1,8 @@
-# 🎧 Audify: Your Personal Audiobook Creator
+# ðŸŽ§ Audify: Your Personal Audiobook Creator
 
 Audify is a simple yet powerful desktop application that transforms your PDF and EPUB files into high-quality audiobooks. Whether you're commuting, exercising, or just prefer listening to reading, Audify gives voice to your documents, making content consumption more accessible and enjoyable.
 
-### ✨ Features
+### âœ¨ Features
 
   * **PDF & EPUB Support**: Convert your favorite books and documents from both PDF and EPUB formats.
   * **Multiple Extraction Modes**:
@@ -85,3 +85,6 @@ Before you begin, ensure you have the following installed:
     python gradio_app.py
     ```
 
+-----
+
+![Audify App Screenshot](src/image.png)
