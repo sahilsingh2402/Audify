@@ -2,7 +2,7 @@
 
 Audify is a simple yet powerful desktop application that transforms your PDF and EPUB files into high-quality audiobooks. Whether you're commuting, exercising, or just prefer listening to reading, Audify gives voice to your documents, making content consumption more accessible and enjoyable.
 
-### âœ¨ Features
+### 🗣️ Features
 
   * **PDF & EPUB Support**: Convert your favorite books and documents from both PDF and EPUB formats.
   * **Multiple Extraction Modes**:
@@ -86,5 +86,7 @@ Before you begin, ensure you have the following installed:
     ```
 
 -----
+
+## Screenshot
 
 ![Audify App Screenshot](src/image.png)
